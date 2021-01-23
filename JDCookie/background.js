@@ -1,5 +1,5 @@
 chrome.browserAction.onClicked.addListener(function () {
-    showCookie();
+    showCookie(37);
 });
 
 function text2clip(text) {
